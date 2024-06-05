@@ -15,4 +15,13 @@
   - **ES6**  
   - **Weight: 1**
 
-  
+- **0x03-ES6_data_manipulation**  
+  - **JavaScript**
+  - **ES6**  
+  - **Weight: 1**
+
+- **0x04-TypeScript**  
+  - **JavaScript**
+  - **ES6**  
+  - **Weight: 1**
+
